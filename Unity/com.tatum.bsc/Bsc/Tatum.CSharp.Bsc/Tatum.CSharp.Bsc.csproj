@@ -24,7 +24,7 @@
 
     <ItemGroup>
       <PackageReference Include="System.Net.Http.Json" Version="6.0.0" />
-      <PackageReference Include="System.Text.Json" Version="6.0.5" />
+      <PackageReference Include="System.Text.Json" Version="6.0.10" />
         <PackageReference Include="Nethereum.HdWallet" Version="4.11.0" />
     </ItemGroup>
 
