@@ -22,7 +22,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Nethereum.HdWallet" Version="4.11.0" />
+      <PackageReference Include="Nethereum.HdWallet" Version="5.0.0" />
     </ItemGroup>
 
 </Project>
